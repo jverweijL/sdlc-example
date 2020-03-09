@@ -24,4 +24,11 @@ git checkout -b sprint/uat-127
 git add -A
 git commit -m update
 git push --set-upstream origin sprint/uat-127
+
+git checkout master
+
+git checkout -b sprint/prd-127
+git add -A
+git commit -m update
+git push --set-upstream origin sprint/prd-127
 ```
