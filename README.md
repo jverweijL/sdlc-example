@@ -1,7 +1,5 @@
 Steps to quickly demonstrate SDLC
 
-Steps to quickly demonstrate SDLC
-
 First create some modules
 
 ```
